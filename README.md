@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning webdev and data analytics.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on awesome projects that will push me to learn more about tech!
-- 📫 How to reach me via 📧 kayenricoso@gmail.com
+- 📫 Reach me via 📧 kayenricoso@gmail.com
 
 <!---
 KayEnricoso/KayEnricoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
